@@ -1,0 +1,62 @@
+.mui-bar-nav{
+	background-color: #000000;
+}
+.mui-bar-nav .mui-title,.mui-bar-nav a{
+	color: #FFFFFF;
+	font-weight: 600;
+}
+.mui-grid-view.mui-grid-9{background: #FFFFFF;}
+.mui-table-view.mui-grid-view .mui-table-view-cell span{
+	font-size: 2em;
+	padding: 0.8rem;
+	color: #FFFFFF;
+	text-align: center;
+	border-radius: 1rem;
+	background-image: none;
+}
+.mui-slider-item{
+	height: 300px;
+	width:300px;
+}
+.mui-slider-item mui-slider-item-duplicate{
+	width: 300px;
+}
+
+
+.mui-icon-chatbubble{
+	background-color: #F4A460;
+}
+.mui-icon-location{
+	background-color: #FFB6C1;
+}
+.mui-icon-search{
+	background-color: #BA55D3;
+}
+.mui-icon-phone{
+	background-color: #FA8072;
+}
+.mui-icon-flag{
+	background-color: #BDB76B;
+}
+.mui-icon-info{
+	background-color: #F0E68C;
+}
+.mui-icon-more{
+	background-color: #D2B48C;
+}
+.mui-icon-starhalf{
+	background-color: #9ACD32;
+}
+
+.mui-icon-weibo{
+	background-color: #9ACD32;
+}
+.mui-icon-weixin{
+	background-color: #BDB76B;
+}
+.mui-icon-camera{
+	background-color: #FFB6C1;
+}
+.mui-icon-paperclip{
+	background-color: #FA8072;
+}
