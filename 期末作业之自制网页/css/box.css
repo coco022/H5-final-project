@@ -1,0 +1,9 @@
+.box .nav {
+	height: 115px;
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.box .nav .right {
+	float: right;
+}
